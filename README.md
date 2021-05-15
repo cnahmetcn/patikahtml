@@ -1,0 +1,1 @@
+Bu proje Patika.dev sayfası tarafından hazırlanmış olan Front-end eğitimi HTML patikası için hazırlanmıştır.
